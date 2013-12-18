@@ -1,5 +1,7 @@
 # builder
 
+!["builder"](hat.png)
+
 Very simple CI
 
 ## Features
